@@ -31,7 +31,7 @@ console.log(res.content);
 const chatTemplate = ChatPromptTemplate.fromMessages([
   [
     "system",
-    `nswer the question based on the context below. If the question 
+    `Answer the question based on the context below. If the question 
     cannot be answered using the information provided, answer with "I 
     don\'t know".`,
   ],
