@@ -16,6 +16,7 @@
     "cheerio": "^1.1.2",
     "langchain": "^0.3.31",
     "langchain-gigachat": "^0.0.14",
+    "pg": "^8.16.3",
     "zod": "^4.1.5"
   }
 }
